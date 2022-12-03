@@ -1,0 +1,25 @@
+body 
+{
+    background-color:#755eb5;
+    color: white;
+}
+h1
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 15%;
+}
+.inputs
+{
+    background-color: white;
+}
+img
+{
+    height: 250px;
+}
